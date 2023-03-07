@@ -1,12 +1,12 @@
 # md-renamebot 
 
 <p align="center">
-  <a href="https://https://github.com/Mdbotz/md-renamebot/stargazers">
+  <a href="https://github.com/Otazuki004/renameXD/stargazers">
     <img src="https://img.shields.io/github/stars/Mdbotz/md-renamebot?style=social">
 
   </a>
   
-  <a href="https://github.com/Mdbotz/md-renamebot/fork">
+  <a href="https://github.com/Otazuki004/renameXD/fork">
     <img src="https://img.shields.io/github/forks/Mdbotz/md-renamebot?label=Fork&style=social">
 
   </a>  
@@ -59,9 +59,9 @@ broadcast - To broadcast messages to users
 
 # SUPPORT
 
-- [UPDATE CHANNEL](https://t.me/GreyMatter_Bots)
-- [SUPPORT GROUP](https://t.me/GreyMatters_Bots_Discussion)
+- [UPDATE CHANNEL](https://t.me/Updates004)
+- [SUPPORT GROUP](https://t.me/FutureCity005)
 
 # Credits
-- [Mdbotz](https://github.com/Mdbotz)
-- [GreyMatter's](https://github.com/Greymattersbot) for adding Koyeb Support. 
+- [Toon LinkZ™](https://t.me/Toon_LinkZ)
+- [OTAZUKI](https://github.com/Otazuki004)

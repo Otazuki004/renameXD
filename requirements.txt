@@ -1,0 +1,8 @@
+pyrogram
+tgcrypto 
+motor==2.5.1
+Flask==2.2.2
+gunicorn==20.1.0
+aiohttp==3.8.1
+dnspython
+hachoir
